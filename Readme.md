@@ -15,5 +15,5 @@ Hoje as tecnologias que mais domino são:
 
 
 
-Atualmente estou me aprofundando em SQL, vou desenvolver uma carreira em Big Data!
+Atualmente estou me aprofundando em SQL, quero desenvolver uma carreira em Big Data!
 
