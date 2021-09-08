@@ -3,6 +3,7 @@
 ### Sobre-mim 😺
 
 > Sou desenvolvedor Full Stack 💻  Tenho 24 anos e estou terminando minha formação em Ciências da Computação 👨🏼‍🎓
+> 
 > Iniciei no mundo da programação aos 17 anos de idade, foi quando conheci HTML e CSS.
 > 
 
